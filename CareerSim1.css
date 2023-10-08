@@ -1,0 +1,18 @@
+.tippytop {text-align: center;
+font-family: 'Courier New', Courier, monospace, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+.Networking {border: 2px dotted black;
+   margin: 8%;
+   padding: 50px;
+   height: 100vh;
+   background-image: url(Imagescs1/000036740008.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+#instaplug {
+    margin-top: 75%;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    background-color: rgb(186, 67, 23);
+    color: white}
