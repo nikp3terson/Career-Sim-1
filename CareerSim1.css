@@ -1,7 +1,7 @@
 .tippytop {text-align: center;
 font-family: 'Courier New', Courier, monospace, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
 
-.Networking {border: 2px dotted black;
+.Networking {border: 2px solid black;
    margin: 8%;
    padding: 50px;
    height: 100vh;
@@ -16,8 +16,8 @@ background-position: center;
     font-family:'Courier New', Courier, monospace;
     background-color: rgb(186, 67, 23);
     color: white}
+    
 .about-div {
-    border: 2px dotted black;
     margin: 20px
 }
 #about {
@@ -38,6 +38,29 @@ background-position: center;
 #about-pic2 {
     border: 2px solid black;
     height: 50vh;
-    margin-left: 15%;
-    
+    margin-left: 15%;  
+}
+
+#portfolio-heading {
+    margin-left: 25%;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3 {
+    text-align: center;
+}
+.scroller {
+    padding: 1rem;
+    border-radius: 8px;
+    max-width: 900px;
+    width: 85vh;
+    margin: auto;
+}
+.images-container{
+    display: flex;
+    gap: 40px;
+    overflow-x: auto;
+}
+.images-container img {
+    border: 2px solid black;
+    height: 300px;
 }
