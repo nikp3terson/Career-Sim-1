@@ -16,8 +16,8 @@ background-size: cover;
 background-position: center;
 }
 #instaplug {
-    margin-top: 75%;
-    text-align: center;
+   position: relative;
+   top: 35em;
     font-family:'Courier New', Courier, monospace;
     background-color: rgb(186, 67, 23);
     color: white}
