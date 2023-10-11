@@ -1,0 +1,2 @@
+Here is my descriptive README file.
+I decided to make my website a photography portfolio for the time being simply because I didn't have any other projects to spotlight in a portfolio. I hope that's okay! My favorite part of this career sim was figuring out how to make horizontal-scrolling image galleries! 
